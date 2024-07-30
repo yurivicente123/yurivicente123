@@ -24,5 +24,5 @@ I'm a 25-year-old developer and have been programming since I was 22. I love pro
 </p>
 
 #### Socials
-<p align="left"> <a href="www.linkedin.com/in/yuri-vicente" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yuri-vicente-71a32a210/" target="_blank" rel="noreferrer"><P/>
+<p align="left"> <a href="www.linkedin.com/in/yuri-vicente" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="www.linkedin.com/in/yuri-vicente" target="_blank" rel="noreferrer"><P/>
 
